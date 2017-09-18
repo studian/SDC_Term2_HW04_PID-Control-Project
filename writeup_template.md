@@ -1,7 +1,7 @@
 # PID Controller Project
 
 <p align="center">
-    <img src="./image/pid_control_2.gif" width="480" alt="main_image" /><br>
+    <img src="./pid_control_result.gif" width="480" alt="main_image" /><br>
     <b>result</b><br>
 </p>
 
