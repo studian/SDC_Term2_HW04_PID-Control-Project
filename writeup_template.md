@@ -10,7 +10,7 @@
 ### PID Componets
 
 * The `P` or `Proportional` component indicates a steering angle that is proportional to the cross-track error (CTE). 
-** If it is used only P component, it cause overshooting problem. continuous oscillations.
+  * If it is used only P component, it cause overshooting problem. continuous oscillations.
 * The `I` or `Integral` component can compensate the bias that the P component can not handle.
 * The `D` or `Differential` component helps reduce overshoot and helps keep the car in the center.
 
